@@ -26,8 +26,9 @@ I then used the output `objpoints` and `imgpoints` to compute the camera calibra
 
 #### 1. Provide an example of a distortion-corrected image.
 
-Please check the second cell of the notebook. All images are distortion corrected and printed with the left side being original images, and the right side have the distortion corrected images. Pay attention to the hood of the car, where it is the most visible.
+Please check the second cell of the notebook. All images are distortion corrected and printed with the left side being original images, and the right side have the distortion corrected images. The chessboard image is an example of undistortion function.
 
+![chessboard](https://github.com/tugrulzure/carndp4/chessboard.png)
 
 #### 2. Describe how (and identify where in your code) you performed a perspective transform and provide an example of a transformed image.
 
